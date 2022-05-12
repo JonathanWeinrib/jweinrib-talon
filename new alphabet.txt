@@ -1,0 +1,4 @@
+default_alphabet = "air bug cat drum each fly glen 
+harp sit jack kale lime made near 
+oak play quill red sun toast urge 
+vest wind flex why zip
